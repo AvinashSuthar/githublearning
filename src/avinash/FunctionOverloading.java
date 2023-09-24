@@ -6,7 +6,7 @@ public class FunctionOverloading {
         fun("Avinash");
     }
     static  void fun(int a){
-        // ambiguity :
+        // ambiguity : can't empty when var args are overloaded;
 
     }
     static  void fun(String a){
