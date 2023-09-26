@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ec1fd33-c8a5-458d-904c-da1e61e26df6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayListexample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Foreach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/InputArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MultiAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Mutable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/questions/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/questions/MaxOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/questions/SwapOfAray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
